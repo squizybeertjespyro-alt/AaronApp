@@ -45,7 +45,7 @@
 				A002 /* ContentView.swift */,
 				A003 /* Assets.xcassets */,
 			);
-			path = AaronApp;
+			path = "";
 			sourceTree = "<group>";
 		};
 		G003 /* Products */ = {
