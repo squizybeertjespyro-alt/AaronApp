@@ -6,7 +6,7 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Color.black.ignoresSafeArea()
-            Text("Aaron")
+            Text("doneer al je gegevens aan aaron<3")
                 .font(.system(size: 56, weight: .bold, design: .rounded))
                 .foregroundColor(.white)
         }
@@ -26,7 +26,7 @@ struct ContentView: View {
         .alert("", isPresented: $showAlert) {
             Button("OK", role: .cancel) {}
         } message: {
-            Text("code opgeslagen")
+            Text("code opgeslagen naar mijn PC LOSER!!!!")
         }
     }
 }
